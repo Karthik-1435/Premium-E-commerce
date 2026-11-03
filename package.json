@@ -1,0 +1,14 @@
+{
+  "name": "ecommerce-api-2027",
+  "version": "1.0.0",
+  "description": "Production-ready E-commerce API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "license": "MIT",
+  "dependencies": {}
+}
